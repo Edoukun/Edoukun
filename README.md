@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Edoukun
-- 👀 I’m mainly interested in Mathematics, Computer Science but my interests range from reading books to riddles and challenges.
+- 👀 I’m mainly interested in Mathematics and Computer Science.
+My interests range from reading books to riddles and challenges.
 - 🌱 I’m currently learning Web Security.
 - 📫 How to reach me : edouard.grenier@gmail.com
 - 😄 Pronouns: He/Him
